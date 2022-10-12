@@ -115,4 +115,9 @@ p{
 #pricing {
 
     padding: 100px;
+    text-align: center;
+}
+
+.card-dog {
+    margin-bottom: 56px;
 }
